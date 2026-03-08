@@ -96,7 +96,3 @@ This project was developed as part of a university assignment to explore:
 - WebSocket or web-based interface
 
 ---
-
-## Author
-
-Computer Science graduate focused on **systems programming, distributed systems, and computer graphics**.
